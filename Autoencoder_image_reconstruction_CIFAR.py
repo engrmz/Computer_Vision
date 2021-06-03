@@ -1,5 +1,5 @@
 '''
-Problem:	Use an Autoencoder to image to image reconstruction
+Problem:	Use an Autoencoder to image to image reconstruction. It uses real object (i.e. cat, dog, etc.) instead of numbers
 
 Input:		RGB image 	(CIFAR10 dataset)
 Output:	Image similar to input
