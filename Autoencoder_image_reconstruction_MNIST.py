@@ -1,5 +1,5 @@
 '''
-Problem:	Use an Autoencoder to image to image reconstruction. It uses real object (i.e. cat, dog, etc.) instead of numbers
+Problem:	Use an Autoencoder to image to image reconstruction. 
 
 Input:		RGB image 	(MNIST dataset)
 Output:	Image similar to input
